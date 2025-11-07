@@ -1,3 +1,7 @@
+# Changelog v1.3.2
+- Snowfall toggle has been added  
+- Certain themes have been removed as we prepare for custom themes to be supported in the future
+
 # Changelog v1.3.1
 - Replaced the 100% text with a check mark once loading is complete.  
 - Fixed an issue where the loading bar incorrectly displayed 25% before actual loading began.
