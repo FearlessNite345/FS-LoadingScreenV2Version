@@ -1,3 +1,7 @@
+# Changelog v1.3.3
+- Added Staff Team card to the top left of loading screen (only shown if info exists in the config)
+- Added Server Updates card to the top right of the loading screen (only shown if info exists in the config)
+
 # Changelog v1.3.2
 - Snowfall toggle has been added  
 - Certain themes have been removed as we prepare for custom themes to be supported in the future
