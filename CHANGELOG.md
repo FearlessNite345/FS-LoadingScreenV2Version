@@ -1,3 +1,8 @@
+# Changelog v1.4.0
+- Added local WebM video backgrounds with sequential or shuffled playlist playback.
+- Added looping YouTube video and playlist backgrounds using links or video IDs.
+- Improved the built-in CanX, WX, and FearlessStudios spawn-selector integrations.
+
 # Changelog v1.3.3
 - Added Staff Team card to the top left of loading screen (only shown if info exists in the config)
 - Added Server Updates card to the top right of the loading screen (only shown if info exists in the config)
